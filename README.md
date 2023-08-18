@@ -1,1 +1,1 @@
-# goit-typescript-hw-01
+## Курс "TypeScript for React 2.0"
