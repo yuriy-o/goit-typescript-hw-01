@@ -3,6 +3,10 @@ type PersonInformation = {
   lastName?: string;
 };
 
+/*
+Getter/Setter
+*/
+
 class Person {
   private personInfo: PersonInformation = {};
 

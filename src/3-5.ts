@@ -1,3 +1,7 @@
+/*
+Наслідування
+*/
+
 class House {
   private tenants: string[] = [];
 
